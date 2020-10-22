@@ -8,7 +8,7 @@
 
 This is a website with handpicked virtual backgrounds which you can use in your zoom calls to stand out from the crowd. You can visit the website here -->
 
-<a href=''>Click Here </a>
+<a href='https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/'>Click Here </a>
 
 ## How to use
 
