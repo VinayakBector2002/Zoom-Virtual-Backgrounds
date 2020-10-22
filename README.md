@@ -1,4 +1,8 @@
-<img src ="#" allign="centre">
+<div align = "center">
+  <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Vlogo.jpg" />
+  <img src=https://media2.giphy.com/media/jE26y0u7JT7lhRgf6R/giphy.gif width="667px">
+ </div>
+
 
 # Zoom Virtual Background
 
